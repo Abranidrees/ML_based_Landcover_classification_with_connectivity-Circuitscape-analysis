@@ -90,3 +90,5 @@ Run the scripts in the following order:
 10. 61_gdistance_summary.R (Note: change the specie type)
 
 11. 65_circuitscape.R (Note: change the period)
+
+## Download the full reproducible project file
