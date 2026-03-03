@@ -1,0 +1,28 @@
+Circuitscape existing-output log (read from outputs/tmp_circuitscape)
+Created: 2025-12-12 09:59:18.665221
+agg_factor: 15
+max_nodes: 100
+min_patch_ha: 5
+core_prop_thr: 0.5
+
+Summary table:
+ species period n_nodes n_pairs                                                                                       nodes_source
+     PFL  Early     100    4950 D:/Poster/work/Proj_1/project/outputs/tmp_circuitscape/forest_nodes_Early_agg15_thr0.5_max100.gpkg
+     GEN  Early     100    4950 D:/Poster/work/Proj_1/project/outputs/tmp_circuitscape/forest_nodes_Early_agg15_thr0.5_max100.gpkg
+     PFL   Late     100    4950  D:/Poster/work/Proj_1/project/outputs/tmp_circuitscape/forest_nodes_Late_agg15_thr0.5_max100.gpkg
+     GEN   Late     100    4950  D:/Poster/work/Proj_1/project/outputs/tmp_circuitscape/forest_nodes_Late_agg15_thr0.5_max100.gpkg
+                                                                     ini_path ini_exists
+ D:/Poster/work/Proj_1/project/config/circuitscape_PFL_Early_agg15_max100.ini       TRUE
+ D:/Poster/work/Proj_1/project/config/circuitscape_GEN_Early_agg15_max100.ini       TRUE
+  D:/Poster/work/Proj_1/project/config/circuitscape_PFL_Late_agg15_max100.ini       TRUE
+  D:/Poster/work/Proj_1/project/config/circuitscape_GEN_Late_agg15_max100.ini       TRUE
+                                                                                         cum_asc cum_asc_exists       cum_asc_mtime
+ D:/Poster/work/Proj_1/project/outputs/tmp_circuitscape/cs_PFL_Early_agg15_max100_cum_curmap.asc           TRUE 2025-12-10 17:41:35
+ D:/Poster/work/Proj_1/project/outputs/tmp_circuitscape/cs_GEN_Early_agg15_max100_cum_curmap.asc           TRUE 2025-12-10 22:41:25
+  D:/Poster/work/Proj_1/project/outputs/tmp_circuitscape/cs_PFL_Late_agg15_max100_cum_curmap.asc           TRUE 2025-12-11 03:30:52
+  D:/Poster/work/Proj_1/project/outputs/tmp_circuitscape/cs_GEN_Late_agg15_max100_cum_curmap.asc           TRUE 2025-12-11 08:11:55
+
+Checks:
+✔ All expected INI files exist.
+
+✔ All expected cumulative ASC files exist.
