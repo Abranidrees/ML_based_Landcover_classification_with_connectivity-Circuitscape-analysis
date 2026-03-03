@@ -1,0 +1,6 @@
+window,ref_code,ref_name,pred_code,pred_name,n,pct_of_ref,quick_note
+2022-2024,4,GrassScrub,5,Built,26,0.15294117647058825,common mix; check boundary/texture; add training tiles
+2022-2024,5,Built,4,GrassScrub,9,0.06818181818181818,common mix; check boundary/texture; add training tiles
+2022-2024,3,Paddy,4,GrassScrub,11,0.0625,common mix; check boundary/texture; add training tiles
+2022-2024,4,GrassScrub,2,Agrocanopy,10,0.058823529411764705,common mix; check boundary/texture; add training tiles
+2022-2024,2,Agrocanopy,1,Forest,14,0.05017921146953405,common mix; check boundary/texture; add training tiles

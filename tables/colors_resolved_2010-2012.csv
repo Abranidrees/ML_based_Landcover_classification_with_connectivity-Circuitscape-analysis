@@ -1,0 +1,8 @@
+code,name,hex,source
+1,Forest,#2ca02c,config
+2,Agrocanopy,#8c564b,config
+3,Paddy,#ffbf00,config
+4,GrassScrub,#98df8a,config
+5,Built,#d62728,config
+6,Water,#1f77b4,config
+7,Rock,#8c6d31,config

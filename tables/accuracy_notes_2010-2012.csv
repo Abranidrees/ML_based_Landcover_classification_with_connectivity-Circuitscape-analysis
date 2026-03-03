@@ -1,0 +1,6 @@
+window,ref_code,ref_name,pred_code,pred_name,n,pct_of_ref,quick_note
+2010-2012,5,Built,4,GrassScrub,45,0.3191489361702128,common mix; check boundary/texture; add training tiles
+2010-2012,4,GrassScrub,5,Built,13,0.07428571428571429,common mix; check boundary/texture; add training tiles
+2010-2012,1,Forest,2,Agrocanopy,14,0.058577405857740586,common mix; check boundary/texture; add training tiles
+2010-2012,2,Agrocanopy,1,Forest,16,0.05263157894736842,common mix; check boundary/texture; add training tiles
+2010-2012,7,Rock,3,Paddy,3,0.05,common mix; check boundary/texture; add training tiles

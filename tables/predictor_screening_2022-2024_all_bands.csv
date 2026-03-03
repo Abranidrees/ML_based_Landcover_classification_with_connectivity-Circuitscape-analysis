@@ -1,0 +1,8 @@
+variable,status,dropped_because_of,abs_r,correlation_threshold
+Band1,kept,NA,NA,0.97
+Band2,kept,NA,NA,0.97
+Band3,kept,NA,NA,0.97
+Band4,kept,NA,NA,0.97
+Band5,kept,NA,NA,0.97
+Band6,kept,NA,NA,0.97
+Band7,kept,NA,NA,0.97
