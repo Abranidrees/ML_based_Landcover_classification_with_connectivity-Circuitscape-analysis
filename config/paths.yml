@@ -1,0 +1,27 @@
+# === Master references ===
+reference_grid: rasters/reference/ValidatedLandcover2023_base7.tif
+aoi: vectors/aoi.gpkg
+training_seed: vectors/training_points_2023.gpkg
+
+# === Composites (inputs for classification; provided) ===
+composites:
+  allbands:
+    - rasters/composites/AllBands_04-06.tif
+    - rasters/composites/AllBands_10-12.tif
+    - rasters/composites/AllBands_16-18.tif
+    - rasters/composites/AllBands_22-24.tif
+  fullextended:
+    - rasters/composites/Composite_04-06_FullExtended.tif
+    - rasters/composites/Composite_10-12_FullExtended.tif
+    - rasters/composites/Composite_16-18_FullExtended.tif
+    - rasters/composites/Composite_22-24_FullExtended.tif
+
+# === Resistance/cost rasters ===
+resistance:
+  pfl_withtall_combined: rasters/resistance/PFL_withTall_combined_res_30m.tif
+  pfl_Early:   rasters/resistance/PFL_noTall_Early_combined.tif
+  pfl_Late:      rasters/resistance/PFL_noTall_Late_combined.tif
+  gen_Early:      rasters/resistance/GEN_all_Early_combined.tif
+  gen_Late:      rasters/resistance/GEN_all_Late_combined.tif
+
+julia: tools/Julia-1.12.1/bin/julia.exe
