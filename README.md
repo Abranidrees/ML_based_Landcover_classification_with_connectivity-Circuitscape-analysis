@@ -92,10 +92,11 @@ Run the scripts in the following order:
 11. 65_circuitscape.R (Note: change the period)
 
 ## Download the full reproducible project file
-
+You can downlaod the whole project with this link: https://doi.org/10.5281/zenodo.18876331
 ## Output Maps
 <img width="724" height="737" alt="Screenshot 2026-03-03 124219" src="https://github.com/user-attachments/assets/0c59122d-beab-455d-8cc1-fa418bab209c" />
 <img width="719" height="740" alt="Screenshot 2026-03-03 124226" src="https://github.com/user-attachments/assets/39f25e42-292c-456b-9014-d48dab1b4840" />
 <img width="728" height="746" alt="Screenshot 2026-03-03 124233" src="https://github.com/user-attachments/assets/c5604c46-839d-4758-a991-c26db00f349e" />
 <img width="737" height="744" alt="Screenshot 2026-03-03 124211" src="https://github.com/user-attachments/assets/9a121c29-dd48-4b48-a440-301f2e59f053" />
  
+
